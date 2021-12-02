@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @carminalamit
+- I am currently working as a grab food rider. I want to become a software engineer to learn how to code and develop software and I know it is a great career tp pursue
+- The things that i love to do is reading books, exercising and riding a motorbike.
