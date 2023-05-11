@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mina 👋</h1>
-<h5 align="center">I'm a software engineer based in Philippines with a passion for building and creating things.<br> In my free time, I love to indulge in two of my favorite hobbies: drinking tea and riding motorbikes.<br> If you share a passion for tea, motorbikes, or coding, I'd love to hear from you!<br> You can reach me via email or connect with me on LinkedIn. Let's grab a cup of tea or go for a ride sometime!</h5>
+<h5 align="center">I'm a Software Engineer based in Philippines with a passion for building and creating things.<br> In my free time, I love to indulge in two of my favorite hobbies: drinking tea and riding motorbikes.<br> If you share a passion for tea, motorbikes, or coding, I'd love to hear from you!<br> You can reach me via email or connect with me on LinkedIn. Let's grab a cup of tea or go for a ride sometime!</h5>
 
 - 👨‍💻 All of my projects are available at [https://minalamit.netlify.app/](https://minalamit.netlify.app/)
 
